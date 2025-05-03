@@ -18,7 +18,7 @@
 
 #Solution:-
 import random,itertools
-
+ 
 lst = []
 
 for i in itertools.cycle([1]):
