@@ -4,7 +4,7 @@
 # If  is even and in the inclusive range of  to , print Weird
 # If  is even and greater than , print Not Weird
 # https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
-
+    
 n = int(input())
 if n % 2:
     print("Weird")
