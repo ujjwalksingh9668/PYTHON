@@ -1,5 +1,5 @@
 print("*****AREA CLACULATOR*****")
-print("""press 1 to get the area of square
+print("""press 1 to get the area of square.  
 press 2 to get the area of the rectangle
 press 3 to get the area of the circle
 press 4 to get the area of the triangle""")
