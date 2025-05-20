@@ -1,5 +1,5 @@
 # swap two numbers
-
+     
 
 a = int(input("value of a: "))
 b = int(input("value of b: "))
