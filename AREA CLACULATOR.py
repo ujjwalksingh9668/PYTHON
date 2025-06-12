@@ -3,7 +3,7 @@ print("""press 1 to get the area of square.
 press 2 to get the area of the rectangle
 press 3 to get the area of the circle
 press 4 to get the area of the triangle""")
-     
+          
 choise = int(input("enter the number between 1-4: "))
 
 if choise == 1:
