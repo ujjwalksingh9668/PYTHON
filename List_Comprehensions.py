@@ -3,7 +3,7 @@
  Print a list of all possible coordinates given by (i,j,k) on a 3D grid where the sum of i+j+k is not equal to n .
   Here, 0<=i<=x; 0<=j<=y; 0<=k<=z. Please use list comprehensions rather than multiple loops, as a learning exercise.....
                
-Sample Input 0
+Sample Input 0.   
 
 1
 1
