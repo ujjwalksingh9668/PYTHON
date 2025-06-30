@@ -1,6 +1,6 @@
 """
 Create a class that takes a name and marks of 3 students as arguments in constructor.
-then create a method to print the average.
+then create a method to print the average.....
 """
 
 class Student:
