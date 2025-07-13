@@ -26,3 +26,6 @@ result = [[i,j,k] for i in range (0,x+1)
                   if i + j + k != n]
 print(result)
 
+
+
+
